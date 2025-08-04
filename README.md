@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="30" alt="ruby logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />
 </div>
 
 ###
