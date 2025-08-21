@@ -1,7 +1,7 @@
 <h2 align="left">Hello World</h2>
 
 <p>
-Olá👋, Eu sou Geovanne! Um brasileiro apaixonado por programação</p>
+Olá👋, Eu sou Geovanne! Um universitário apaixonado por programação</p>
 
 - 📚 Atualmente estou estudando Ciência da Computação na UFG - Universidade Federal de Goiás.
 
