@@ -1,5 +1,17 @@
-<h2 align="left">Olá👋! Meu nome é Geovanne Rodrigues</h2>
+<h2 align="left">Hello World</h2>
 
+<p>
+Olá👋, Eu sou Geovanne! Um brasileiro apaixonado por programação</p>
+
+- 📚 Atualmente estou estudando Ciência da Computação na UFG - Universidade Federal de Goiás.
+
+- 💼  Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvomento web.
+<!--
+<details>
+    <summary>👨‍💻 Mais sobre mim</summary>
+    - 💬 Tenho 22 anos e atualmente moro no Brasil.
+</details>
+!-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geovanne19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
