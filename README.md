@@ -36,7 +36,7 @@ Olá👋, Eu sou Geovanne! Um universitário apaixonado por programação
   <h3>Ferramentas</h3>
   <img align="center" title="VSCode" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" title="DBeaver" alt="DBeaver" height="30" width="40" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />
+  <img align="center" title="DBeaver" alt="DBeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
 </div>
 
 <div style="flex-basis: 48%;">
@@ -45,6 +45,7 @@ Olá👋, Eu sou Geovanne! Um universitário apaixonado por programação
   <img align="center" title="Vue.js" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" title="FastAPI" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" title="Ruby on Rails" alt="Ruby on Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+    <img align="center" title="Ruby on Rails" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
 ##
